@@ -1,0 +1,25 @@
+{
+  "name": "real-time-stock-data-microservice",
+  "version": "1.0.0",
+  "description": "API for fetching stock data in real-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharp0111/real-time-stock-data-microservice.git"
+  },
+  "keywords": [
+    "stock",
+    "data",
+    "real-time",
+    "api"
+  ],
+  "author": "Sergey N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharp0111/real-time-stock-data-microservice/issues"
+  },
+  "homepage": "https://github.com/sharp0111/real-time-stock-data-microservice#readme"
+}
