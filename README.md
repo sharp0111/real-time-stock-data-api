@@ -6,3 +6,4 @@ Tech Stack:
 2. RabbitMQ
 3. Socket.io
 4. Database - TODO
+5. API: alphavantage
