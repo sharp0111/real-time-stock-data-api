@@ -1,1 +1,8 @@
-# real-time-stock-data-microservice
+# Real Time Stock Data Microservice
+
+Tech Stack:
+
+1. Node
+2. RabbitMQ
+3. Socket.io
+4. Database - TODO
