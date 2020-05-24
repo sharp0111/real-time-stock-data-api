@@ -19,8 +19,8 @@ RabbitMQ is the most widely deployed open source message broker
 
 Socket.IO enables real-time, bidirectional and event-based communication.
 
-# Alpha Vantage <a name="thirdpartyapi"></a>
+# Third-party API <a name="thirdpartyapi"></a>
+
+Alpha Vantage offers realtime and historical stock APIs
 
 [Getting Started Guide](https://medium.com/alpha-vantage/get-started-with-alpha-vantage-data-619a70c7f33a)
-
-Realtime and historical stock APIs
