@@ -18,4 +18,6 @@ Socket.IO enables real-time, bidirectional and event-based communication.
 
 # Alpha Vantage
 
+[Getting Started Guide](https://medium.com/alpha-vantage/get-started-with-alpha-vantage-data-619a70c7f33a)
+
 Realtime and historical stock APIs
