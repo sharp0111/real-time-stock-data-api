@@ -7,6 +7,10 @@
 3. [Socket.io](#socketio)
 4. [Third-party API](#thirdpartyapi)
 
+# Repository hosted on Github and AWS CodeCommit
+
+# Deployed to AWS Lambda
+
 # Node.js <a name="nodejs"></a>
 
 [Node.js](https://nodejs.org/en/) is a JavaScript runtime built on Chrome's V8 JavaScript engine.
